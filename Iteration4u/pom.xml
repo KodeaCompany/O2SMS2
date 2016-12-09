@@ -5,7 +5,7 @@
   <parent>
     <groupId>kodea</groupId>
     <artifactId>O2SMS2</artifactId>
-    <version>0-0.0.1-09.12.16</version>
+    <version>0.2-0.0.1-09.12.16</version>
   </parent>
   <groupId>kodea</groupId>
   <artifactId>Iteration4u</artifactId>
